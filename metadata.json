@@ -1,0 +1,5 @@
+{
+  "name": "Modern Music Player",
+  "description": "A minimal and clean music player web app with playlist, progress bar, and volume control.",
+  "requestFramePermissions": []
+}
